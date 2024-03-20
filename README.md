@@ -8,7 +8,7 @@ Datasets:
 -   Regression : https://www.kaggle.com/datasets/tawfikelmetwally/advertising-dataset
 
 About datasets:
--   Classficiation dataset contains information about the obesity classification of individuals. The data was collected from a variety of sources, including medical records, surveys, and self-reported data. The dataset includes the following columns:
+-   Classfication dataset contains information about the obesity classification of individuals. The data was collected from a variety of sources, including medical records, surveys, and self-reported data. The dataset includes the following columns:
     -  ID: A unique identifier for each individual
     -  Age: The age of the individual
     -  Gender: The gender of the individual
