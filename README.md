@@ -1,5 +1,5 @@
 # Machine Learning Assigment 2
-## Classification and Regression With Support Vector Machine
+## Classification and Regression with Support Vector Machine
 
 M. Alfan Septian Nufi - 2108107010047
 
