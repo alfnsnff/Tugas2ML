@@ -28,4 +28,4 @@ Notebooks:
 ### Vew from github
 Simply click or choose one of listed notebooks above to view the notebook
 ### Locally
-Simply download or clone the repository that already include the datasets and run the notebooks locally
+Simply [download](https://github.com/alfnsnff/Tugas2ML/archive/refs/heads/master.zip) or clone the repository that already include the datasets and run the notebooks locally
